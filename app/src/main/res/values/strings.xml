@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Taskord</string>
+    <string name="username">Email Address</string>
+    <string name="password">Password</string>
+    <string name="log_in">Log In</string>
+    <string name="register">Register</string>
+
+</resources>

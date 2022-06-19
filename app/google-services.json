@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "128511393982",
+    "project_id": "taskord-e0f6f",
+    "storage_bucket": "taskord-e0f6f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128511393982:android:d0c71cf7aacb1f2b4e1eef",
+        "android_client_info": {
+          "package_name": "com.android.taskord"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "128511393982-jf3kj32k9pc9l8ta8hm7rpa1oj1v00rv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3MmGlVrsEs_PPaLe7TeuIETpL3PVLZ3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "128511393982-jf3kj32k9pc9l8ta8hm7rpa1oj1v00rv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128511393982:android:96f3c26caef82a474e1eef",
+        "android_client_info": {
+          "package_name": "com.example.taskord"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "128511393982-jf3kj32k9pc9l8ta8hm7rpa1oj1v00rv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3MmGlVrsEs_PPaLe7TeuIETpL3PVLZ3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "128511393982-jf3kj32k9pc9l8ta8hm7rpa1oj1v00rv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
