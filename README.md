@@ -1,5 +1,5 @@
 # Taskord
-An app to tracks, creates , assign and manage tasks for groups of people.
+An app that tracks, creates , assign and manage tasks for groups of people.
 
 # Demo
 
